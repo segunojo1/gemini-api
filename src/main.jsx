@@ -7,6 +7,6 @@ import ImageRecognizer from './ImageRecognizer.jsx'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
-    <ImageRecognizer />
+    {/* <ImageRecognizer /> */}
   </React.StrictMode>,
 )
